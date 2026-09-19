@@ -24,6 +24,10 @@ A practical architecture for governing **identity, tools, autonomy, action traje
 
 Production Voice AI is more than speech quality. This section explores how realtime voice systems combine **audio, reasoning, tools, enterprise integrations, guardrails, evaluation, observability and human handoff** to deliver measurable outcomes.
 
+### [Grok Voice — From Conversation to Business Outcome](articles/solving-real-enterprise-problems-with-grok-voice.md)
+
+A business-problem-first architecture for using **Grok Voice** across telecom support, sales, financial services, field service and multilingual workflows—with tool orchestration, authorization boundaries, evals and measurable outcomes.
+
 ### [ElevenLabs — Building Production Voice Agents: The Architecture Beyond a Great Voice](articles/building-production-voice-agents-with-elevenlabs.md)
 
 Using **ElevenAgents** as the reference platform: realtime latency, enterprise tools, guardrails, conversation testing, online evals and human handoff.
@@ -39,7 +43,6 @@ Using the **Deepgram Voice Agent API** as the reference: unified vs composable p
 ### [OpenAI Realtime API — Beyond Speech-to-Speech](articles/building-production-voice-agents-openai-realtime-api.md)
 
 Using the **OpenAI Realtime API** as the reference: full-duplex conversation, realtime transports, tool authorization, delegated work, latency budgets, voice-agent evals and graceful degradation.
-
 
 ## Core production-evaluation architecture
 
