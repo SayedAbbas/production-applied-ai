@@ -20,7 +20,7 @@ How to translate Responsible AI principles into **runtime controls, bounded auto
 
 A practical architecture for governing **identity, tools, autonomy, action trajectories, data, change and human approval**—not just the underlying model.
 
-## Voice AI · Applied AI
+## Applied AI: Production Voice Architectures
 
 Production Voice AI is more than speech quality. This section explores how realtime voice systems combine **audio, reasoning, tools, enterprise integrations, guardrails, evaluation, observability and human handoff** to deliver measurable outcomes.
 
