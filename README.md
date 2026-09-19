@@ -12,6 +12,19 @@ This repository is my technical notebook for moving AI from impressive prototype
 
 Why a high average score can hide catastrophic failures—and how **golden datasets, offline evals, online evals, release gates, CI/CD, observability and production feedback loops** work together.
 
+### [Responsible AI Is Not a Policy Document: A Production Safety Architecture for AI Agents](articles/responsible-ai-production-safety-architecture.md)
+
+How to translate Responsible AI principles into **runtime controls, bounded autonomy, safety evals, human oversight and operational evidence**.
+
+### [Agentic AI Governance: How Do You Govern a System That Can Take Action?](articles/agentic-ai-governance-action-path.md)
+
+A practical architecture for governing **identity, tools, autonomy, action trajectories, data, change and human approval**—not just the underlying model.
+
+### [Building Production Voice Agents with ElevenLabs: The Architecture Beyond a Great Voice](articles/building-production-voice-agents-with-elevenlabs.md)
+
+A production architecture for **ElevenAgents**, covering real-time latency, enterprise tools, guardrails, conversation testing, online evals, human handoff and business outcomes.
+
+
 ## Core production-evaluation architecture
 
 ```mermaid
