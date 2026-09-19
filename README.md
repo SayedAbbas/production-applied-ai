@@ -20,9 +20,25 @@ How to translate Responsible AI principles into **runtime controls, bounded auto
 
 A practical architecture for governing **identity, tools, autonomy, action trajectories, data, change and human approval**—not just the underlying model.
 
-### [Building Production Voice Agents with ElevenLabs: The Architecture Beyond a Great Voice](articles/building-production-voice-agents-with-elevenlabs.md)
+## Voice AI · Applied AI
 
-A production architecture for **ElevenAgents**, covering real-time latency, enterprise tools, guardrails, conversation testing, online evals, human handoff and business outcomes.
+Production Voice AI is more than speech quality. This section explores how realtime voice systems combine **audio, reasoning, tools, enterprise integrations, guardrails, evaluation, observability and human handoff** to deliver measurable outcomes.
+
+### [ElevenLabs — Building Production Voice Agents: The Architecture Beyond a Great Voice](articles/building-production-voice-agents-with-elevenlabs.md)
+
+Using **ElevenAgents** as the reference platform: realtime latency, enterprise tools, guardrails, conversation testing, online evals and human handoff.
+
+### [Cartesia — Building Production Voice AI: Latency Is Only the Beginning](articles/building-production-voice-ai-with-cartesia.md)
+
+Using **Cartesia Sonic, Ink and Line** as the reference stack: end-to-end conversational latency, turn-taking, tool design, bounded actions, evaluation and business outcomes.
+
+### [Deepgram — Building Production Voice Agents: Design the Conversation as a Realtime System](articles/building-production-voice-agents-with-deepgram.md)
+
+Using the **Deepgram Voice Agent API** as the reference: unified vs composable pipelines, turn detection, barge-in, function calling, regional architecture, evals and production feedback.
+
+### [OpenAI Realtime API — Beyond Speech-to-Speech](articles/building-production-voice-agents-openai-realtime-api.md)
+
+Using the **OpenAI Realtime API** as the reference: full-duplex conversation, realtime transports, tool authorization, delegated work, latency budgets, voice-agent evals and graceful degradation.
 
 
 ## Core production-evaluation architecture
